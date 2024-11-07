@@ -11,4 +11,6 @@ Dog dog = new Dog()
     Name = "Jack",
 };
 
+Console.WriteLine("End of test");
+
 Console.WriteLine("The test is done");
